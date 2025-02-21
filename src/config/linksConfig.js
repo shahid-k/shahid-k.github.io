@@ -1,5 +1,5 @@
 export const links = {
-  resume: "https://drive.google.com/file/d/1vNzQhSp23AqKzsI6HTBkUQBEntvzyXbX/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/1WCERBNxm8L5n8xxpGBz2ifsdmB2yBHLw/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/shahidkhan96/",
   github: "https://github.com/shahid-k",
   leetcode: "https://leetcode.com/u/shahidjk96",
