@@ -52,7 +52,7 @@ const HeroSection = () => {
           }}
           className='col-span-8 place-self-center place-items-start gap-4'
         >
-          <h1 className='mb-2 lg:mb-4 font-extrabold'>
+          <h1 className='mb-2 sm:w-[25%] lg:mb-4 font-extrabold'>
             <span className='text-transparent text-3xl md:text-4xl lg:text-5xl xl:text-7xl bg-clip-text bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 '>
               Hi there <span className='text-white'>👋</span> I&apos;m {" "}
             </span>
@@ -79,7 +79,7 @@ const HeroSection = () => {
             <a href={links.resume} target='_blank' aria-label='resume' className="bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white px-6 py-3 rounded-full mr-4">
               <span className='flex align-middle gap-2'>Resume <CloudArrowDownIcon className='size-5' /></span>
             </a>
-            <div className="flex gap-2">
+            <div className="flex gap-1">
               <a href={links.linkedin} target='_blank' aria-label='linkedin' className="bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 px-1 py-1 rounded-full">
                 <span className="block bg-[#0565ff] hover:bg-[#1250b5] rounded-full h-35 w-35">
                   <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="40" height="40" viewBox="0 0 48 48">
